@@ -6,7 +6,7 @@ Have a look on my <a href="https://app.flowcv.com/resume-feedback/B3TJWduxMYJYVr
 #### I'm around:
 
 <a href="https://www.linkedin.com/in/behzadam" target="_blank">LinkedIn</a> |
-<a href="https://github.com/behzadam" target="_blank">GitHub</a> |
+<a href="https://instagram.com/behzad.pro?igshid=MjEwN2IyYWYwYw==" target="_blank">Instagram</a> |
 <a href="https://t.me/behzadalimohammadzad" target="_blank">Telegram</a> |
 <a href="https://twitter.com/behzad_pro" target="_blank">Twitter</a> |
 <a href="mailto:behzad.am@gmail.com">Email</a>
