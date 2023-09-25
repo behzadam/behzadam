@@ -1,4 +1,4 @@
-Software engineer with about 10 years of experience developing end-to-end software solutions, primarily in front-end engineering.
+I am an experienced software engineer with over 9 years of professional experience developing end-to-end software solutions, primarily in front-end engineering.
+I am passionate about testing, code quality and software architecture.
 
-If you think we can work together, so just let me know.</br>
 Have a look on my <a href="https://app.flowcv.com/resume-feedback/B3TJWduxMYJYVrad03euA" target="_blank">Resume</a>.
