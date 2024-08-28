@@ -1,1 +1,1 @@
-I'm a Senior Frontend Engineer with 10 years of experience crafting innovative solutions for startups. My primary focus is on front-end development, but I bring a holistic understanding of software development to ensure my work seamlessly integrates with the broader system and aligns with business objectives. I'm also a passionate outdoor enthusiast who enjoys hiking, trekking, and capturing nature's beauty in my free time.
+Senior Software Engineer with 10+ years building innovative web solutions for startups. Passionate hiker and nature lover.
