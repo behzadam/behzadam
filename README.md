@@ -1,2 +1,1 @@
-I am a software engineer with over 10 years of experience primarily in front-end development. Throughout my career, I have served as a bridge between product design and development teams. My expertise extends to both product design principles and the nuances of software development processes. Additionally, I am a passionate advocate for effective software design and architecture.
-
+Software Engineer & Tech Lead passionate about crafting elegant solutions to complex product and engineering challenges. Outside of tech, I’m an amateur photographer capturing stories through my lens and a hiker exploring the beauty of nature. These pursuits inspire creativity, resilience, and a fresh perspective in everything I do.
